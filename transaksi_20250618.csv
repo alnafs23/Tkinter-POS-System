@@ -1,0 +1,9 @@
+Tanggal,Waktu,Nama Kasir,Pelanggan,Nama Item,Varian,Jumlah,Harga Satuan,Subtotal Item,Total Pesanan,Jumlah Bayar,Kembalian
+2025-06-18,22:12:37,yuna,None,Ikan Segar Pilihan,-,8,15000,120000,135000,200000.0,65000.0
+,,,,Mie Yamin,Bakso,1,15000,15000,,,
+2025-06-18,22:54:30,yuna, None,Telur Barendo,Pedas,2,15000,30000,30000,30000,30000.0,0.0
+2025-06-18,22:55:35,yuna, None,Aneka Pisang,Goreng,3,30000,90000,1090000,1090000,1500000.0,410000.0
+,,,,Mie Ayam Komplit,Mi-Bakso,100,10000,1000000,,,,
+2025-06-18,22:57:28,yuna,alin,Ayam Katsu Spesial,BBQ,2,15000,30000,30000,30000,30000.0,0.0
+2025-06-18,23:04:34,A, None,Pure Matcha,Ice,1,20000,20000,30000,30000,100000.0,70000.0
+,,,, Leci Tea,Ice,1,10000,10000,,,,
