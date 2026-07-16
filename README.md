@@ -20,7 +20,7 @@ Aplikasi **Point of Sale (POS)** desktop untuk restoran, dibangun dengan Python,
 
 > *"Kasir yang cepat adalah pelayanan pertama yang dirasakan pelanggan."*
 
-**Pawone Simbah Restaurant POS** adalah sistem kasir yang dirancang agar staf dapat memproses pesanan hanya dengan beberapa kali klik — mulai dari memilih menu bergambar, menentukan varian rasa, menghitung kembalian secara otomatis, hingga mencetak struk dan menyimpan riwayat transaksi harian.
+**Pawone Simbah Restaurant POS** adalah sistem kasir yang dirancang agar staf dapat memproses pesanan hanya dengan beberapa kali klik, mulai dari memilih menu bergambar, menentukan varian rasa, menghitung kembalian secara otomatis, hingga mencetak struk dan menyimpan riwayat transaksi harian.
 
 | 🎯 Tujuan | 📈 Manfaat |
 |---|---|
